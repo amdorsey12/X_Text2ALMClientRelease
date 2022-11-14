@@ -1,0 +1,13 @@
+#!/bin/bash
+cd $HOME
+TEXT2ALM_PATH=$HOME/Text2ALM
+X_TEXT2ALM_PATH=$HOME/X_Text2ALM
+RELEASE_SCRIPTS_PATH=$HOME/X_Text2ALMClientRelease/Scripts
+X_TEXT2ALM_SCRIPTS_PATH=$HOME/X_Text2ALM/Text2ALM/Scripts
+mkdir X_Text2ALM
+cp -r $TEXT2ALM_PATH $X_TEXT2ALM_PATH/Text2ALM
+cd $X_TEXT2ALM_PATH
+mkdir ClingoIntermediateOutput XclingoOutput 
+cd Text2ALM
+mkdir TestTraceFiles Output/Text2ALM_Outputs
+cp -r $RELEASE_SCRIPTS_PATH $X_TEXT2ALM_SCRIPTS_PATH 
