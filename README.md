@@ -19,6 +19,6 @@ A desktop GUI client for X_Text2ALM; an extension of [Text2ALM](https://github.c
 2. Run ```./GuiClient```
 
 A video demonstration of the capabilities can be seen below
-
+[XText2ALMClientBetaRelease.webm](https://user-images.githubusercontent.com/43710452/201573532-e7c59343-4012-4f59-a18e-485dfafaf2c2.webm)
 
 **Note** this is the first beta release of this application. It was developed strictly on a voluntary hobby basis and almost certainly contains bugs and much room for improvement. I am very open to feedback and to developing additional features should the interest be there for it. 
