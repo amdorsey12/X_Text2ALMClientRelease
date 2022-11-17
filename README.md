@@ -15,7 +15,7 @@ A desktop GUI client for X_Text2ALM; an extension of [Text2ALM](https://github.c
 2. Run ```./install_x_text2alm_client.sh```, presuming you have met the prerequisites this should create an X_Text2ALM folder in your Home directory with the necessary assets to run the desktop client application.
 
 # Running the client
-1. Navigate to /home/(user)/X_Text2ALMClientRelease/Release/net6.0
+1. Navigate to /home/(user)/X_Text2ALMClientRelease/Release/net6.0/linux-x64
 2. Run ```./GuiClient```
 
 A video demonstration of the capabilities can be seen [here](https://user-images.githubusercontent.com/43710452/201811894-308a569b-3780-4b08-b344-a117d86e2e97.mp4)
